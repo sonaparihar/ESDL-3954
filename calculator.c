@@ -3,7 +3,6 @@
 void main()
 {
  int a,b,c;
- //Add whatever function
  int add(int p,int q)
  {
   return a+b;
